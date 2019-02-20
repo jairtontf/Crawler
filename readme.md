@@ -34,6 +34,7 @@ Com o Python 3.7 instalado na máquina instale o virtualenv ou qualquer outro de
 Crie o seu ambiente virtual e ative ele
 
 ```virtualenv nomedoambiente```
+
 ```source caminho/do/ambiente/bin/activate```
 
 Agora instales as os módulos
