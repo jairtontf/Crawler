@@ -11,10 +11,14 @@ Bandas que tem caracteres especias como apóstrofo ( ' ), cifrão ( $ ), 'e come
   ( & ) e outros, você deve escrever o nome da banda sem o carácter especial.
 
 
-```- Ex0.: Titãs se tornará titas.```
-```- Ex1.: para Gun's n Roses utilize Guns n Roses;```
-```- Ex2.: para Eddy B & Tim Gunter utilize Eddy B Tim Gunter```
-```- Ex2.: para Ca$h Out utilize Cah Out```
+```- Ex0.: Titãs se tornará titas;
+```
+```- Ex1.: para Gun's n Roses utilize Guns n Roses;
+```
+```- Ex2.: para Eddy B & Tim Gunter utilize Eddy B Tim Gunter
+```
+```- Ex2.: para Ca$h Out utilize Cah Out
+```
 
 ### Requisitos
 
