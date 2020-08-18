@@ -7,7 +7,7 @@ Um pequeno projeto para exibir os nomes das músicas de uma banda que você dese
 Basta você executar o script passando como argumento o nome da banda.
 Também é possível usar o argumento -top5 para trazer as cinco músicas mais populares da banda.
 Além disso você pode digitar o nome da banda que tenha acento nas letras.
-Bandas que tem caracteres especias como apóstrofo ( ' ), cifrão ( $ ), 'e comercial'
+Bandas que tem caracteres especias como apóstrofo ( ' ), cifrão ( $ ), ampersand
   ( & ) e outros, você deve escrever o nome da banda sem o carácter especial.
 
 
