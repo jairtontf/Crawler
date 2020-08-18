@@ -22,7 +22,9 @@ Bandas que tem caracteres especias como apóstrofo ( ' ), cifrão ( $ ), 'e come
 
 ### Requisitos
 
-Recomendo utilizar Python 3.7, virtualenv e os seguintes módulos: bs4 na versão 4.7.1 e requests na versão 2.21.0
+```Python 3.7```
+```bs4 versão 4.7.1```
+```requests versão 2.21.0```
 
 
 ### Instalando
